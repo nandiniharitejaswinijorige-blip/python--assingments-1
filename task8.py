@@ -22,3 +22,11 @@ print(f"Revenue: {revenue:.2f}")
 print(f"Profit: {profit:.2f}")
 print(f"Profit margin: {margin:.2f}%")
 print(status)
+output
+100
+50
+20
+5
+1000
+100
+20
