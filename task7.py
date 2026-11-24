@@ -30,3 +30,17 @@ print(f"Subtotal: {subtotal:.2f}")
 print(f"Discount: {discount:.2f}")
 print(f"Tax: {tax_total:.2f}")
 print(f"Final total: {final_total:.2f}")
+
+output
+2
+1000
+10
+150
+Rice
+food
+500
+2
+Shirt
+clothing
+800
+1
