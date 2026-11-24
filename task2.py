@@ -39,3 +39,21 @@ for month in range(1, months + 1):
             print(f"Unusual increase: {increase:.2f}%")
 
     previous_bill = bill
+
+output
+
+3
+20
+80
+100
+5
+10
+150
+100
+5
+0
+20
+400
+100
+5
+15
