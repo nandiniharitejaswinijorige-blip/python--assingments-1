@@ -26,3 +26,12 @@ print(f"Incentives: {incentives:.2f}")
 print(f"Gross salary: {gross:.2f}")
 print(f"Deduction: {deduction:.2f}")
 print(f"Net salary: {net:.2f}")
+
+output
+Basic pay: 40000.00
+Allowances: 10000.00
+Overtime pay: 5000.00
+Incentives: 5000.00
+Gross salary: 60000.00
+Deduction: 3500.00
+Net salary: 56500.00
