@@ -35,3 +35,11 @@ else:
         total *= 0.25
 
     print(f"Total fare: {total:.2f}")
+
+output
+150
+sleeper
+2
+no
+30
+65
