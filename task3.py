@@ -22,8 +22,29 @@ else:
         classification = "Unpaid"
 
     print(f"Subtotal: {subtotal:.2f}")
+
+
+   
     print(f"Concession: {concession:.2f}")
     print(f"Final bill: {bill:.2f}")
     print(f"Payment: {payment:.2f}")
     print(f"Balance: {balance:.2f}")
     print(f"Classification: {classification}")
+
+
+output
+3
+20
+80
+100
+5
+10
+150
+100
+5
+0
+20
+400
+100
+5
+15
