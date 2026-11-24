@@ -23,3 +23,8 @@ if eligible:
     print(f"Total cost: {cost:.2f}")
 else:
     print("No eligible plan")
+
+output
+8
+30
+500
