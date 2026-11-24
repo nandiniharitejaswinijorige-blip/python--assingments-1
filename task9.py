@@ -27,3 +27,15 @@ print(f"Total spending: {total:.2f}")
 print(f"Largest category: {largest_category} ({largest_amount:.2f})")
 print(f"Budget difference: {difference:.2f}")
 print(status)
+
+output
+1000
+2
+Hotel
+300
+1.0
+2
+Food
+200
+1.0
+1
