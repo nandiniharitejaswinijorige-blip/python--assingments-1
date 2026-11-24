@@ -33,3 +33,13 @@ print(f"Participant contributions: {participant_funds:.2f}")
 print(f"Sponsorship: {sponsorship:.2f}")
 print(f"Funding shortfall: {funding_gap:.2f}")
 print(f"Minimum registrations to break even: {minimum_text}")
+
+output
+1000
+500
+10
+300
+2
+1000
+20
+100
