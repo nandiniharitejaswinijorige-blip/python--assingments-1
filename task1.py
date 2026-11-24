@@ -42,3 +42,22 @@ else:
     for rank, applicant in enumerate(eligible, start=1):
         applicant_id, aggregate, attendance, income = applicant
         print(f"{rank} {applicant_id} {aggregate:.2f} {attendance:.2f} {income:.2f}")
+
+
+
+output
+3
+20
+80
+100
+5
+10
+150
+100
+5
+0
+20
+400
+100
+5
+15
